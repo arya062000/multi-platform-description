@@ -26,4 +26,3 @@ CMD ["python --version"]
 
 # LABEL org.opencontainers.image.description "Description from org.opencontainers.image.description"
 LABEL foo=bar
-LABEL org.opencontainers.image.licenses=MIT
